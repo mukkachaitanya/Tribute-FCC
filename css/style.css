@@ -1,0 +1,37 @@
+h1 {
+  font-family: Montserrat;
+  margin-top: 90px;
+  padding-top: 135px;
+  padding-bottom: 80px;
+}
+
+h2 {
+  font-family: Bitter;
+  font-size: 250%;
+  font-weight: bold;
+}
+
+#Time {
+  color: #F5F5F5;
+  background-color: #455A64;
+  padding: 40px;
+}
+
+#Who {
+  background-color: #EEEEEE;
+  padding: 40px;
+}
+
+#dp {
+  margin: 0 auto;
+  box-shadow: 8px 8px 5px #BDBDBD;
+}
+
+#Top {
+  color: white;
+  background-image: url(https://b.cfcdn.com/6290/featured-xlarge.jpg);  /*APJ Teaching Img */
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
